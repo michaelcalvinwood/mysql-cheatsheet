@@ -1,0 +1,3 @@
+// show users
+    select user from mysql.user;
+
